@@ -1,3 +1,4 @@
+Sonya
 Simple project for study makefiles
 =====================
 
